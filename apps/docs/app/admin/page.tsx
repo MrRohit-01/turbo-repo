@@ -3,6 +3,6 @@ export default function(){
     return (
         <div>
         <Admin/>
-        tyfjftyuj</div>
+        this is admin</div>
     )
 }

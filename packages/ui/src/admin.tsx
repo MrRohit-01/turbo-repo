@@ -4,7 +4,7 @@ export function Admin(){
     return (
         <div>
             <Button children="data" appName="hello"/>
-            aflmf
+            this is admin function
         </div>
     )
 }
